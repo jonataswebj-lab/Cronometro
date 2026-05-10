@@ -9,4 +9,4 @@
 <img src="https://www.w3schools.com/whatis/img_js.png" alt="javascript-logo" width=80px />
 <br>
 
-<a href="https://jonataswebj-lab.github.io/Sorteador/">Site Cronometro</a>
+<a href="https://jonataswebj-lab.github.io/Cronometro/">Site Cronometro</a>
